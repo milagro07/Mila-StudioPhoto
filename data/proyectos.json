@@ -1,0 +1,26 @@
+{
+    "sesiones": {
+        "2026-02-20": {
+            "Nombre": "Yalena",
+            "Apellido": "Diaz",
+            "Fecha": "2026-02-20",
+            "Espacio": "Exterior",
+            "Iluminaci\u00f3n": "Natural",
+            "C\u00e1mara": "C\u00e1mara Canon EOS R5",
+            "Fot\u00f3grafo": "Mila",
+            "Auxiliar": "Maquillista",
+            "Vestuario": 2
+        },
+        "2026-02-21": {
+            "Nombre": "Mariana",
+            "Apellido": "Carla",
+            "Fecha": "2026-02-21",
+            "Espacio": "Interior",
+            "Iluminaci\u00f3n": "Focos",
+            "C\u00e1mara": "C\u00e1mara Canon EOS R5",
+            "Fot\u00f3grafo": "Mila",
+            "Auxiliar": "Maquillista",
+            "Vestuario": 2
+        }
+    }
+}

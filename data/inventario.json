@@ -1,0 +1,17 @@
+{
+    "inventory": {
+        "Local": "Mila's Studio",
+        "C\u00e1mara": [
+            "C\u00e1mara Canon EOS R5",
+            "C\u00e1mara HASSELBLAD X2D 100C"
+        ],
+        "Fot\u00f3grafo": "Mila",
+        "Vestuario": 10,
+        "Auxiliar": [
+            "Estilista",
+            "Maquillista",
+            "Escen\u00f3grafo"
+        ],
+        "Espacio": ["Exterior", "Interior"]
+    }
+}
